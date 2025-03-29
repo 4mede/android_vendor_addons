@@ -284,6 +284,14 @@
   </family>
   <alias name="inter-medium" to="inter" weight="500" />
 
+  <!-- Ubuntu -->
+  <family customizationType="new-named-family" name="lgtravel">
+    <font weight="400" style="normal">HYTravel.ttf</font>
+    <font weight="700" style="bold">HYTravel_Bold.ttf</font>
+  </family>
+  <alias name="lgtravel-medium" to="lgtravel" weight="500" />
+  <alias name="lgtravel-semi-bold" to="lgtravel" weight="600" />
+
   <!-- Oppo Sans -->
   <family customizationType="new-named-family" name="opposans">
     <font weight="100" style="normal">OppoSans-En-Regular.ttf

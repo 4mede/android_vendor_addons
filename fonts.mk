@@ -4,6 +4,7 @@ PRODUCT_PACKAGES += \
     FontGoogleSansLatoOverlay \
     FontHarmonySansOverlay \
     FontInterOverlay \
+    FontLGTravelOverlay \
     FontOneplusSlateOverlay \
     FontOppoSansOverlay \
     FontSanFranciscoDisplayProSourceOverlay \
